@@ -1,7 +1,7 @@
 # Dash Visualization Application
 This repository is for the Dash visualization app development. **Publicly available at: https://austin-gentrification-explorer.herokuapp.com/**
 
-![Dash App Screenshot](https://github.gatech.edu/team-data-vis-analytics/project/blob/master/src/Dash%20App/Screenshot%20of%20Dash%20App.PNG)
+![Dash App Screenshot](https://github.com/srjalan/Austin-Gentrification-Explorer/blob/master/Screenshot%20of%20Dash%20App.PNG)
 
 ## To launch the visualization app in a local environment
 
